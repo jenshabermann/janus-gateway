@@ -1,5 +1,5 @@
 {
-  "name": "Janus WebRTC Server",
+  "name": "janus-gateway",
   "description": "Janus is an open source, general purpose, WebRTC server designed and developed by Meetecho.",
   "version": "1.2.0",
   "dependencies": {},
